@@ -1,8 +1,8 @@
 <?php
 /*
-    Plugin Name: Woo Crud 
-    Plugin URI: https://github.com/TR4HIM
-    Description: Wordpress API for reactJs
+    Plugin Name: WooCrud API 
+    Plugin URI: https://github.com/TR4HIM/woo-crud-plugin
+    Description: Is a plugin to manage API and Setting for ReactJs Application WooCrud
     Author: Soufiane Trahim
     Version: 1.0.0
     Author URI: https://github.com/TR4HIM
