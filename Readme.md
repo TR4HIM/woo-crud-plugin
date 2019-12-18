@@ -16,8 +16,7 @@ This is a custom plugin to manage the API and Settings for the ReactJs Applicati
 
 4.  To install required plugins navigate to :
 	 ***Dashboard > Plugins > Install Plugins*** *Then Install Required Plugins.*
-###
-![Getting Started](https://github.com/TR4HIM/woocrud/blob/master/gif-demo/WooCrud-Plugin-Installation.gif?raw=true)
+
 
 ### [](https://github.com/TR4HIM/woo-crud-plugin#required-plugins)Required plugins
 
@@ -25,6 +24,11 @@ This is a custom plugin to manage the API and Settings for the ReactJs Applicati
 
  3.  JWT Authentication for WP REST API - Please check the  ***[Documentation](https://wordpress.org/plugins/jwt-authentication-for-wp-rest-api/)***  to configure JWT plugin.
 
+ ### Installation
+ ![Getting Started](https://github.com/TR4HIM/woocrud/blob/master/gif-demo/WooCrud-Plugin-Installation.gif?raw=true)
+
+ ***NB : Please follow the documentation to install JWT plugin correctly.***
+ 
 ## [](https://github.com/TR4HIM/woo-crud-plugin#features)Features
 
 -   Manage required plugins for WooCrud Application.
